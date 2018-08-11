@@ -1,0 +1,49 @@
+
+<question>
+	::= <exist>
+	  | <how>
+	  | <where>
+	  | <do>
+	  | <which>
+	  | COMPUTER
+	  | STANDBY
+	  .
+<exist>
+	::= IS THERE <A> <ethnic> RESTAURANT <near>
+	  .
+<how>
+	::= HOW LONG DOES IT TAKE TO <motion> TO  THE <ethnic> RESTAURANT
+	  | HOW LONG DOES IT TAKE TO <motion> THERE
+	  | HOW FAR IS IT TO THE <ethnic> RESTAURANT
+	  | HOW FAR IS IT
+	  | HOW FAR IS IT <PREP> <VEHICLE>
+	  | HOW FAR IS IT TO THE <ethnic> RESTAURANT <PREP> <VEHICLE>
+	  | HOW DO <pronoun> <motion> THERE
+	  | HOW DO <pronoun> <motion> THERE FROM HERE
+	  | HOW DO <pronoun> <motion> THERE <PREP> <VEHICLE>
+	  | HOW DO <pronoun> <motion> THERE FROM HERE <PREP> <VEHICLE>
+	  .
+<where>
+	::=  WHERE IS THE <PROXIMITY> <ethnic> RESTAURANT
+	  .
+<do>
+	::=  DO THEY <ACCEPT> CREDIT CARDS
+	  .
+<which>
+	::=  WHICH ONES
+	  | WHICH CREDIT CARDS
+	  | WHICH CREDIT CARDS DO THEY ACCEPT
+	  | WHAT ONES
+	  | WHAT CREDIT CARDS
+	  | WHAT CREDIT CARDS DO THEY ACCEPT 
+	  .
+<ethnic>	::= CHINESE | VEGETARIAN | INDIAN | MEXICAN | FRENCH .
+<near>		::= NEAR | NEARBY | CLOSE TO HERE | CLOSEBY .
+<pronoun>	::= I | YOU .
+<motion>	::= WALK | DRIVE | GET .
+<A>		::= A | AN .
+<PREP>		::= BY .
+<VEHICLE>	::= BUS | CAR | BIKE | BICYCLE | FOOT .
+<PROXIMITY>	::= NEAREST | CLOSEST .
+<ACCEPT>	::= ACCEPT | TAKE .
+

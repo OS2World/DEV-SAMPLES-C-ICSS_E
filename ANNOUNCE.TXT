@@ -1,0 +1,834 @@
+IBM Continuous Speech Series Speech Recognition
+Developers Toolkit and Runtime System Software
+ 
+The IBM Continuous Speech Series is a set of programs that consist of a toolkit
+for developing speech enabled applications and a runtime for execution and
+operation of those applications.  The developers toolkit provides the necessary
+tools for application programmers to speech enable their existing products or
+develop new applications which exploit speech recognition.  Using the speech
+recognition Application Programming Interface (API), developers can produce
+applications that recognize and process a continuous flow of spoken U.S.
+English words.  Using ICSS can help the user to enhance the functionality of
+many software applications and to develop new software applications that meet
+the dynamic needs of today's markets.
+ 
+The IBM Continuous Speech Series for Windows will be available through a beta
+program starting on July 23, 1993.  The initial release of the ICSS for
+Windows(1) program will allow Windows application developers to speech enable
+Windows applications running in the WIN-OS2 box of OS/2(R) 2.1.  Customers must
+complete the membership application form and return it, along with payment, to
+receive the beta code, documentation and technical support.  This application
+is available by calling 1-800-627-8363 and asking for an ICSS information
+package.
+ 
+The main features of ICSS are:
+ 
+o  Speaker Independence -- Though there are variations in human speech from
+   person to person, ICSS has the capability to process speech from different
+   speakers.  In addition, ICSS requires no speaker enrollment or training,
+   unlike some other speech recognition systems.  ICSS has been tested with a
+   wide variety of speaking accents.  With experience, users learn appropriate
+   microphone positioning and speaking volumes so that recognition rates
+   improve with repeated speaker use.
+ 
+o  Continuous Speech -- Continuous speech is a series of spoken words without a
+   requirement for pauses between words.  This feature provides the ability for
+   users to speak at natural or even rapid rates and enjoy successful speech
+   recognition.  This capability is well suited for command and transaction
+   applications that require high-speed control of user interfaces.
+ 
+o  Large Vocabulary -- The ICSS dictionary has over 20,000 U.S. English words.
+   The development tools are provided to allow application developers to add
+   industry specific words.  ICSS can provide recognition under multiple,
+   switchable, contexts of up to 1,000 words each.  By using the context
+   switching feature, multiple contexts can be pre-loaded and rapidly switched,
+   thus extending the practical reach of the system to complex real world
+   applications.
+ 
+o  Multi-Platform -- ICSS currently supports the OS/2, AIX(R) and Windows 3.1
+   environments along with many of the popular sound boards such as
+   Soundblaster and Pro Audio Spectrum 16.
+ 
+o  Client/Server Support -- The recognition server can support multiple
+   applications running on the same machine.  The recognition engine serves as
+   a serially reusable resource.  The ICSS Runtime can be installed as either a
+   stand-alone executable, as a server or as a client.  When installed in
+   client/server mode, thus requiring 2 licenses, the client hardware resources
+   in terms of memory requirements can be reduced.
+ 
+o  Published APIs -- Documented APIs facilitate the efficient speech enablement
+   of new and existing applications.  The API set gives the application
+   developer an efficient method of utilizing the speech recognition engine.
+   The advantages and flexibility of a continuous speech interface can be
+   quickly applied to a broad spectrum of existing user applications in a
+   manner that protects and enhances user software investment.
+ 
+(1) Trademark of Microsoft Corporation.
+ 
+Planned Availability:
+ 
+o  July 2, 1993
+ 
+   -  IBM Continuous Speech Series/2 Developers Toolkit
+   -  IBM Continuous Speech Series/2 Runtime System
+   -  IBM AIX Continuous Speech Series/6000 Developers Toolkit
+   -  IBM AIX Continuous Speech Series/6000 Runtime System
+ 
+o  December 31, 1993
+ 
+   -  IBM Continuous Speech Series for Windows Developers Toolkit
+   -  IBM Continuous Speech Series for Windows Runtime System
+ 
+Part
+Number      Description
+______      ___________
+.fo off
+79G9694     IBM Continuous Speech Series/2
+            Developers Toolkit
+79G9693     IBM Continuous Speech Series/2
+            Runtime License
+79G9713     IBM Continuous Speech Series/2
+            Runtime Additional License
+79G0247     IBM Continuous Speech Series/2
+            Runtime Additional License
+            Certificate
+ 
+79G9709     IBM AIX Continuous Speech
+            Series/6000 Developers Toolkit
+79G9710     IBM AIX Continuous Speech
+            Series/6000 Runtime License
+79G9711     IBM AIX Continuous Speech
+            Series/6000 Runtime Additional
+            License
+79G0246     IBM AIX Continuous Speech
+            Series/6000 Runtime Additional
+            License Certificate
+ 
+79G9707     IBM Continuous Speech Series
+            for Windows Developers Toolkit
+79G9708     IBM Continuous Speech Series
+            for Windows Runtime License
+79G9712     IBM Continuous Speech Series
+            for Windows Runtime Additional
+            License
+79G0245     IBM Continuous Speech Series
+            for Windows Runtime Additional
+            License Certificate
+.fo on
+(TM) Trademark of International Business Machines Corporation.
+ 
+(R) Registered trademark of International Business Machines Corporation.
+ 
+HIGHLIGHTS
+ 
+o  Continuous Speech Recognition so you do not have to pause between words.
+ 
+o  Speaker Independent therefore no training is required thus allowing
+   walk-up-and-use applications.
+ 
+o  Multiple Operating Systems supported provide the ability for you to write
+   cross-platform speech-enabled applications (OS/2, AIX and Windows 3.1) and
+   support many of the popular sound cards such as Soundblaster and ProAudio
+   Spectrum 16.
+ 
+o  Large Vocabulary allows most applications to be speech enabled because over
+   20,000 words are in the dictionary with 1000 active at any given time.
+ 
+o  Stand-Alone or Client/Server provides resource savings and makes speech
+   enablement of current client/server applications more conducive.
+ 
+o  The IBM Continuous Speech Series is a program consisting of a developers
+   toolkit and a runtime.  The toolkit provides the ability to speech enable
+   applications and the runtime provides for the execution of these speech
+   enabled applications.
+ 
+o  Tools to Add Words are included with the developers toolkit to allow
+   industry specific words to be part of the speech enabled application.
+ 
+o  Documented APIs provide application developers easy access to the speech
+   recognition engine, thus reducing the amount of time necessary to speech
+   enable an application.
+ 
+DESCRIPTION
+ 
+SPEAKER INDEPENDENT SPEECH RECOGNITION
+ 
+Though there are variations in human speech from person to person; ICSS has the
+capability to process speech from different speakers.  In addition, ICSS
+requires no speaker enrollment or training, unlike some other speech
+recognition systems.  The IBM Continuous Speech Series has been tested with a
+wide variety of speaking accents from around the world.  Though performance
+varies somewhat, many accents are well recognized also, ICSS recognition rates
+improve with repeated speaker use.
+ 
+Business Solutions
+ 
+Enable Customer's Competitive Advantage:  The speaker independent aspects of
+ICSS, coupled with it's continuous speech functions and vocabulary size provide
+an unparalleled speech recognition system.
+ 
+Speaker independent speech recognition allows a wide range of customers to take
+advantage of an application without having extensive computer skills.  ICSS now
+expands the computer user interface to provide the next generation of
+human/computer interaction.  Almost anyone that can speak US English, can use a
+speech enabled application developed using the IBM Continuous Speech Series.
+ 
+CONTINUOUS SPEECH RECOGNITION
+ 
+Users can speak at natural, or even rapid, rates and enjoy successful speech
+recognition.  This capability is well suited for command and transaction
+applications that require high-speed control of user interfaces.  Natural
+speech can now drive your applications.  Users can speak naturally and
+continuously without pausing between words.
+ 
+End User Productivity
+ 
+Improved Worker Productivity:  Continuous Speech recognition can greatly
+improve transaction speed because most people can speak faster than they can
+type or press function keys on a computer.  This quick turnaround time for
+transaction processing can increase thruput by decreasing the amount each
+transaction takes to process.
+ 
+Business Solutions
+ 
+Enable Customer's Competitive Advantage:  Continuous Speech input as a means of
+speech recognition software plays a key role for speech enabled applications.
+Continuous speech being the natural method of communication can provide a
+competitive advantage over applications speech enabled with discrete speech or
+not speech enabled at all.  Discrete speech, or having to pause between words
+is an unnatural act and can cause strain for the user.
+ 
+Medium Vocabulary:  The IBM Continuous Speech Series has a 1,000 word active
+vocabulary.  ICSS recognizes more than 1,000 words per context.  More complex
+applications can be supported with multiple 1,000 word contexts that can be
+rapidly switched so that the effective vocabulary is much higher than 1,000
+words.  Often, you can develop contexts for different screens of an
+application.  Then, contexts are switched almost instantaneously as users
+progress through the program screens.
+ 
+Growth Enablement
+ 
+Increased Capacity/Performance Improvement:  The instantaneous context
+switching provides the ability to have smaller contexts, thus improving speed
+and accuracy of the speech enabled application.
+ 
+Large Dictionary Base:  The ICSS Dictionary currently has over 20,000 words,
+with phonemic representations, available for building contexts.
+ 
+Systems Management
+ 
+Improved Application Quality:  A multitude of applications can be speech
+enabled with ICSS due to the robustness of the dictionary as well as the
+ability to add specific words with the tools provided.
+ 
+MARKETING INFORMATION
+ 
+Product Positioning
+ 
+The IBM Continuous Speech Series is positioned as the premium command/control,
+data entry/retrieval and forms fill system.  This developers toolkit provides
+application developers speech recognition vocabulary size unparalleled in the
+ 
+industry.  This is the only speaker independent speech recognition product
+offered by IBM.  For customers who require speech to text dictation, with
+free-form speech, highly accurate, large dictionaries (20,000 words), and can
+work with speaker dependent, discrete speech systems, IBM offers the IBM Speech
+Server Series.
+ 
+Marketing Strategy
+ 
+The IBM Continuous Speech Series delivers to application providers the next
+generation of human/computer interface, speech.  ICSS provides the tools to
+allow application developers to speech enable their systems thus providing
+solutions in hands busy, eyes busy environments.
+ 
+Marketing Focus
+ 
+Customer Fulfillment Option:  IBM representatives will receive sales plan
+credit for remarketer fulfillment of the eligible programs.
+ 
+Marketing Programs
+ 
+30-Day Money-Back Guarantee:  The 30-day money-back guarantee provides the end
+user with an unconditional money back guarantee.  If for any reason the end
+user is not satisfied with our Products or our Program Packages,  the products
+can be returned to the place of acquisition for a full refund.  The products
+must be returned within 30 days from the date of acquisition with a valid proof
+of license.  Only products obtained directly from IBM, an IBM Business Partner,
+or EduQuest(TM) are eligible for this program.  This applies to purchases or
+licenses obtained on or after March 17, 1992.  Refer to announcement letter NDD
+92-147 for further details.
+ 
+(TM) Trademark of International Business Machines Corporation.
+ 
+Marketing Support
+ 
+Advertising Support:  Advertisements will be seen in the September issue of
+Software Development magazine as well as OS/2 Developer.
+ 
+Support Materials:  Brochures and presentation guides are available from the
+SPEECH Package on MKTTOOLS.
+ 
+Remarketer Support:  For technical assistance (installation, usage and
+programming) with the ICSS toolkit, a special toll-free number has been set up
+for your support.  Just dial 1-800-553-1623 between the hours of 8:00 a.m. to
+5:00 p.m., Central time, in the continental United States (or Canada), and
+select option number two.  Your question will be resolved promptly, usually
+within one business day.
+ 
+PUBLICATIONS
+ 
+The following publication is available from Mechanicsburg by August 1993.  To
+order, contact your IBM representative or call the toll-free number
+800-879-2755.
+ 
+Order
+Number      Description
+______      ___________
+ 
+SC22-0154   IBM Continuous Speech
+            Series Technical Reference
+ 
+EDUCATION SUPPORT
+ 
+ICSS Education is provided by Skill Dynamics(TM).  The course number for the
+IBM Continuous Speech Series is a generic marketing overview session.
+ 
+Skill Dynamics is pleased to announce IBM Speech Recognition education.  The
+first course is two and one half days of introduction to IBM's strategic speech
+recognition offerings:
+ 
+o  The IBM Continuous Speech Series (ICSS)
+o  The IBM Speech Server Series (ISSS)
+ 
+ICSS is a continuous speech, speaker independent, developer's toolkit, allowing
+command control and navigation of speech enabled applications.
+ 
+ISSS is a large vocabulary, speaker dependent system, intended for text
+dictation tasks.
+ 
+Audience:
+ 
+IBM customers, business partners, or other individuals who want to be aware of
+emerging technologies in speech recognition and develop skills to "speech
+enable" applications are encouraged to attend this course.
+ 
+Enrollment & Schedule:
+ 
+Customers may enroll by calling 1-800-IBM-TEACh, asking to enroll in course
+#N1676 .
+ 
+(TM) Trademark of International Business Machines Corporation.
+ 
+TECHNICAL INFORMATION
+ 
+Specified Operating Environment
+ 
+Machine Requirements:
+ 
+The IBM Continuous Speech Series operates on a personal computer with OS/2
+Version 2.1, on a personal computer with Windows 3.1 or RISC System/6000(R)
+system under AIX Version 3.2.  The Runtime system for either platform can run
+as stand-alone or Client/Server.
+ 
+(R) Registered trademark of International Business Machines Corporation.
+ 
+PC-OS/2 Developers Toolkit:
+ 
+    PS/2(R) or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  6MB of memory (RAM) in excess of that required by OS/2 and any other
+       user applications
+    o  12MB of free disk storage space (minimum)
+    o  One of the following sounds cards:
+       -  Soundblaster (with MMPM/2)
+       -  Soundblaster Pro (with MMPM/2)
+       -  Soundblaster 16 (with MMPM/2)
+       -  Pro Audio Spectrum 16 (with MMPM/2)
+       -  IBM M-Audio Capture and Playback Adapter (or Micro-Channel)
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+       -  Sennheiser 431, 518, 410
+       -  Audio Technica
+       -  Conneaut CAD89
+       -  Electro-Voice N/D 257B
+       -  Electro-Voice N/D 857B
+ 
+(R) Registered trademark of International Business Machines Corporation.
+ 
+PC-OS/2 stand-alone runtime configuration:
+ 
+    PS/2 or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by OS/2 and any other
+       user applications
+    o  10MB of free disk storage space (minimum)
+    o  One of the following sounds cards:
+       -  Soundblaster (with MMPM/2)
+       -  Soundblaster Pro (with MMPM/2)
+       -  Soundblaster 16 (with MMPM/2)
+       -  Pro Audio Spectrum 16 (with MMPM/2)
+       -  IBM M-Audio Capture and Playback Adapter (or Micro-Channel)
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+       -  Sennheiser 431, 518, 410
+       -  Audio Technica
+       -  Conneaut CAD89
+       -  Electro-Voice N/D 257B
+       -  Electro-Voice N/D 857B
+ 
+PC-OS/2 Runtime Client configuration:
+ 
+    PS/2 or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  2MB of memory (minimum) in excess of that required by OS/2 and any other
+       user applications
+    o  2MB of free disk storage space (minimum)
+    o  One of the following sounds cards:
+       -  Soundblaster (with MMPM/2)
+       -  Soundblaster Pro (with MMPM/2)
+       -  Soundblaster 16 (with MMPM/2)
+       -  Pro Audio Spectrum 16 (with MMPM/2)
+       -  IBM M-Audio Capture and Playback Adapter (or Micro-Channel)
+    o  Token-Ring or Ethernet LAN Adapter Card
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+       -  Sennheiser 431, 518, 410
+       -  Audio Technica
+       -  Conneaut CAD89
+       -  Electro-Voice N/D 257B
+       -  Electro-Voice N/D 857B
+ 
+PC-OS/2 Runtime Server configuration:
+ 
+    PS/2 or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by OS/2 and any other
+       user applications
+    o  9MB of free disk storage space (minimum)
+    o  Token-Ring or Ethernet LAN Adapter Card
+ 
+RISC System/6000 Developers Toolkit configuration:
+ 
+    A RISC System/6000 (machine type 7011) Model 220, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by AIX and any other
+       user applications
+    o  12MB of free disk storage space
+    o  One M-Audio Capture and Playback Adapter/A (Micro Channel(R) format)
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+       -  Sennheiser 431, 518, 410
+       -  Audio Technica
+       -  Conneaut CAD89
+       -  Electro-Voice N/D 257B
+       -  Electro-Voice N/D 857B
+ 
+(R) Registered trademark of International Business Machines Corporation.
+ 
+RISC System/6000 Runtime stand-alone configuration:
+ 
+    A RISC System/6000 (machine type 7011) Model 220, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by AIX and any other
+       user applications
+    o  12MB of free disk storage space
+    o  One M-Audio Capture and Playback Adapter/A (Micro Channel format)
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+       -  Sennheiser 431, 518, 410
+       -  Audio Technica
+       -  Conneaut CAD89
+       -  Electro-Voice N/D 257B
+       -  Electro-Voice N/D 857B
+ 
+RISC System/6000 Runtime System client configuration:
+ 
+    A RISC System/6000 (machine type 7011) Model 220, or faster
+ 
+    o  4MB of memory (minimum) in excess of that required by AIX and any other
+       user applications
+    o  8MB of free disk storage space
+    o  One M-Audio Capture and Playback Adapter/A (Micro Channel format)
+    o  Token-Ring or Ethernet LAN Adapter Card
+ 
+RISC System/6000 Runtime Server configuration:
+ 
+    A RISC System/6000 (machine type 7011) Model 220, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by AIX and any other
+       user applications
+    o  12MB of free disk storage space
+    o  One M-Audio Capture and Playback Adapter/A (Micro Channel format)
+    o  Token-Ring or Ethernet LAN Adapter Card
+ 
+PC-Windows 3.1 Developers Toolkit:
+ 
+    PS/2 or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by the operating
+       system and any other user applications
+    o  12MB of free disk storage space (minimum)
+ 
+    o  One of the following sounds cards:
+       -  Soundblaster
+       -  Soundblaster Pro
+       -  Soundblaster 16
+       -  Pro Audio Spectrum 16
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+       -  Sennheiser 431, 518, 410
+       -  Audio Technica
+       -  Conneaut CAD89
+       -  Electro-Voice N/D 257B
+       -  Electro-Voice N/D 857B
+ 
+PC-Windows 3.1 stand-alone runtime configuration:
+ 
+    PS/2 or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by the operating
+       system and any other user applications
+    o  10MB of free disk storage space (minimum)
+    o  One of the following sounds cards:
+        -- Soundblaster
+        -- Soundblaster Pro
+        -- Soundblaster 16
+        -- Pro Audio Spectrum 16
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+        -- Sennheiser 431, 518, 410
+        -- Audio Technica
+        -- Conneaut CAD89
+        -- Electro-Voice N/D 257B
+        -- Electro-Voice N/D 857B
+ 
+PC-Windows 3.1 Runtime Client configuration:
+ 
+    PS/2 or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  2MB of memory (minimum) in excess of that required by the operating
+       system and any other user applications
+    o  2MB of free disk storage space
+    o  One of the following sounds cards:
+        -- Soundblaster
+        -- Soundblaster Pro
+        -- Soundblaster 16
+        -- Pro Audio Spectrum 16
+    o  Token-Ring or Ethernet LAN Adapter Card
+    o  Input microphone (super cardioid, uni-directional, noise cancelling with
+       an impedance of more than 600 Ohms) such as:
+        -- Sennheiser 431, 518, 410
+        -- Audio Technica
+        -- Conneaut CAD89
+        -- Electro-Voice N/D 257B
+        -- Electro-Voice N/D 857B
+ 
+PC-Windows 3.1 Runtime Server configuration:
+ 
+    PS/2 or Personal Computer with an 80486DX processor at 25MHz, or faster
+ 
+    o  6MB of memory (minimum) in excess of that required by the operating
+       system and any other user applications
+    o  9MB of free disk storage space (minimum)
+    o  Token-Ring or Ethernet LAN Adapter Card
+ 
+Programming Requirements:  The following software is required to run the IBM
+Continuous Speech Series Developers Toolkit
+ 
+1. OS/2 configuration:
+ 
+   o  OS/2 Version 2.1 or OS/2 2.0 with MMPM/2
+   o  OS/2 C Set/2
+   o  OS/2 2.0 Developers Tool Kit
+ 
+2. RISC System/6000 configuration:
+ 
+   o  AIX Version 3.2 for RISC System/6000
+   o  AIX C Compiler
+ 
+3. Microsoft Windows 3.1 configuration:
+ 
+   o  Microsoft Windows 3.1
+   o  Microsoft C7 or Visual Basic C++
+ 
+The following software is required to run the IBM Continuous Speech Series
+Runtime System:
+ 
+1. OS/2 configuration:
+ 
+   o  OS/2 Version 2.1 or OS/2 2.0 with MMPM/2
+ 
+2. AIX/6000(TM) configuration:
+ 
+   o  AIX Version 3.2 for RISC System/6000
+ 
+3. Microsoft Windows 3.1 configuration:
+ 
+   o  Microsoft Windows 3.1
+ 
+(TM) Trademark of International Business Machines Corporation.
+ 
+Limitations:  The IBM Continuous Speech Series can provide the tools necessary
+to speech enable applications where US English is the language enabled.
+However, the phonemes shipped with ICSS can be parsed to build grammars so that
+other languages are supported.
+ 
+  An example of this is "RETURN TO THE MAIN MENU"
+ 
+  VOLVER_AL_MENU_PRINCIPAL
+  B OW L B EH R AA L M EH N UW P R IH N S IY P AE L
+ 
+Performance Considerations:  System response time may be slowed if there is not
+enough memory in the system.  Likewise, if using a processor below that
+recommended in the hardware requirements section, speech processing and overall
+system performance may be slowed.
+ 
+Planning Information
+ 
+The Developers Toolkit program package contains the development tools as well
+as the runtime executables so that developers do not have to purchase a
+ 
+separate runtime when running a speech enabled application on the same machine
+as the development tools.
+ 
+Customer Responsibilities:  The customer must provide at least the minimum
+hardware and software environments in which the IBM Continuous Speech Series
+will operate.  This environment includes a microphone that has a flat audio
+range.
+ 
+Shipment:  This program is shipped directly to the customer.
+ 
+Packaging:  The IBM Continuous Speech Series/2 Developers Toolkit Program
+Package (OS/2) will contain:
+ 
+o  Nine 3.5-inch high density diskettes
+o  IBM Continuous Speech Series Technical Reference Manual
+o  IBM Continuous Speech Series Messages & Codes
+o  Customer registration form
+o  Media Request form
+o  Program License Agreement
+o  Outer box
+ 
+The IBM Continuous Speech Series/2 Runtime System Program Package (OS/2) will
+contain:
+ 
+o  Seven 3.5-inch high density diskettes
+o  IBM Continuous Speech Series User's Guide
+o  Customer registration form
+o  Media Request form
+o  Program License Agreement
+ 
+The IBM Continuous Speech Series/6000 Developers Toolkit Program Package (AIX)
+will contain:
+ 
+o  8mm Tape
+o  IBM Continuous Speech Series Technical Reference Manual
+o  IBM Continuous Speech Series Messages & Codes
+o  Customer registration form
+o  Media Request form
+o  Program License Agreement
+o  Outer box
+ 
+The IBM Continuous Speech Series/6000 Runtime System Program Package (AIX) will
+contain:
+ 
+o  8mm tape
+o  IBM Continuous Speech Series User's Guide
+o  Customer registration form
+o  Media Request form
+o  Program License Agreement
+ 
+The IBM Continuous Speech Series for Windows Developers Toolkit Program Package
+will contain:
+ 
+o  Nine 3.5-inch high density diskettes
+o  IBM Continuous Speech Series Technical Reference Manual
+o  IBM Continuous Speech Series Messages & Codes
+o  Customer registration form
+o  Media Request form
+o  Program License Agreement
+o  Outer box
+ 
+The IBM Continuous Speech Series for Windows Runtime System Program Package
+will contain:
+ 
+o  Seven 3.5-inch high density diskettes
+ 
+o  IBM Continuous Speech Series Getting Started
+o  Customer registration form
+o  Media Request form
+o  Program License Agreement
+ 
+Security, Auditability, and Control
+ 
+The security functions of the IBM Continuous Speech Series depends on the
+security features of the operating system.
+ 
+User management is responsible for evaluation, selection, and implementation of
+security features, administrative procedures, and appropriate controls in
+application systems and communication facilities.
+ 
+ADMINISTRATIVE INFORMATION
+ 
+Ordering Information
+ 
+All orders for software are available via PartnerLink or available through the
+IBM Software/Publications Hotline (1-800-327-5711).
+ 
+Available for Ordering:  July 2, 1993.
+ 
+Distribution/Shipment:  All shipping charges for IBM Licensed
+Programs/Publications from an IBM designated shipping location will be paid by
+IBM in accordance with IBM's shipping practices.  The remarketer is responsible
+for shipping charges incurred by IBM as a result of requested shipping
+arrangements which do not conform to IBM's then current shipping practice.
+ 
+TERMS AND CONDITIONS
+ 
+Licensing:  This Licensed Program will be available on a one-time charge basis
+to Personal Computer Dealers, Industry Remarketers -- Personal Computer and
+Software Dealers, offered for remarketing under the terms and conditions of the
+IBM Business Partner Agreement.
+ 
+This program is licensed under the terms and conditions of the IBM Program
+License Agreement (PLA) (Z125-3301).  A copy of the PLA is packaged and shipped
+with each program.  The diskettes are in a sealed envelope inside the package
+and requires the end user to break the envelope seal.  This constitutes
+acceptance of the PLA.  No signature is required.
+ 
+IBM has acceptance terms for Additional License Copies for this program.  Under
+these terms, customers may now acquire additional licenses for this program by
+ordering a "Proof of Additional License" certificate.  The new "Proof of
+Additional License", which is in the form of a certificate, is the customer's
+authorization to make a single copy of the program.  The certificate may be
+ordered in any quantity.  The customer must have obtained an original program
+package in order to acquire additional licenses.  The terms and conditions of
+the IBM Program License Agreement supplied with the original program package
+apply to the Additional License Copies, except that the additional licenses may
+not be transferred.  There is no machine readable code included with the new
+"Proof of Additional License" package.
+ 
+Customers now have a choice of acquiring additional licenses with the new Proof
+of License certificate or by accepting the terms for Additional Licenses Copies
+in the existing agreements (IBM Customer Agreement, IBM Customer Agreement --
+License or End User Additional License Agreement).
+ 
+Returns:  If the PLA package has been opened, but the diskette seal has not
+been broken, the remarketer must accept the package and refund the money paid
+to the end user.  These packages may be returned to IBM under the returns
+provisions.
+ 
+30-Day Money-Back Guarantee:  IBM will provide a credit for any program package
+returned to its point of acquisition, provided it was acquired in the 30 days
+prior to the date of return and includes the accompanying documentation and
+media.
+ 
+Upon receipt of the program package the remarketer will sign the Request for
+Credit for Returned Licensed Program (Z125-4830) certifying that the program
+package and its accompanying documentation and media was destroyed.  The
+Request for Credit for Returned IBM Licensed Program may be obtained from the
+local IBM office.
+ 
+To obtain credit for the returned program package, the remarketer must submit
+the end user's sales receipt or invoice, a copy of the IBM invoice and the
+Request for Credit for Returned Licensed Program, signed by the remarketer and
+send to the IBM TCS processing location.
+ 
+The return credit will be processed upon receipt of the above.  The credit will
+be based upon level II pricing.
+ 
+Price Reduction Credit:  This product is not eligible for full inventory price
+reduction credit.
+ 
+Limited Warranty:
+ 
+Programs:  Yes.
+ 
+Media:  Three (3) months.
+ 
+Program Services:  Central Service will be available until July 2, 1996.  The
+statement of service included in the program package describes this service.
+ 
+IBM does not guarantee service results or represent or warrant that all errors
+or program defects will be corrected.  Instructions for reporting problems are
+included in the program publications.
+ 
+CHARGES
+ 
+                                         *One-Time  Level 1   Level 2
+Part                            Support   License   License   License
+Number      Description        Category    Charge    Charge    Charge
+______      ___________        _________   ______    ______    ______
+ 
+79G9694     ICSS/2 Developers     N/A       $399      $225      $210
+            Toolkit
+79G9693     ICSS/2 Runtime        N/A        299       171       160
+            System
+ 
+79G9709     ICSS/6000 Developers  N/A        399       225       210
+            Toolkit
+79G9710     ICSS/6000 Runtime     N/A        299       171       160
+            System
+ 
+79G9707     ICSS for Windows      N/A        399       225       210
+            Developers Toolkit
+79G9708     ICSS for Windows      N/A        299       171       160
+            Runtime System
+ 
+Additional License Charge
+ 
+                                         *One-Time  Level 1   Level 2
+Part                            Support   License   License   License
+Number      Description        Category    Charge    Charge    Charge
+______      ___________        _________   ______    ______    ______
+ 
+79G9713     ICSS/2 Runtime        N/A       $249      $144      $135
+            System
+            Additional License
+79G0247     ICSS/2 Runtime        N/A        249       144       135
+            System
+            Additional License
+            Certificate
+ 
+79G9711     ICSS/6000 Runtime     N/A        249       144       135
+            System
+            Additional License
+79G0246     ICSS/6000 Runtime     N/A        249       144       135
+            System
+            Additional License
+            Certificate
+ 
+79G9712     ICSS for Windows      N/A        249       144       135
+            Runtime System
+            Additional License
+79G0245     ICSS for Windows      N/A        249       144       135
+            Runtime System
+            Additional License
+            Certificate
+ 
+*One-Time License Charge:  This reflects the license charges for a single unit
+acquired from IBM and is subject to change without notice.  These charges are
+for information purposes only and shall not limit in any way the Dealer's or
+Industry Remarketer's ability to set their own charges for IBM programs.
+ 
+National Education License Fee (NELF)
+ 
+              National
+ Part        Education
+Number      License Fee
+______      ___________
+ 
+79G9694         $232
+79G9693          177
+79G9709          232
+79G9710          177
+79G9707          232
+79G9708          177
+79G9713          148
+79G0247          148
+79G9711          148
+79G0246          148
+79G9712          148
+79G0245          148
+

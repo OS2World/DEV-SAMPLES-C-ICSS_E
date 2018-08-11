@@ -1,0 +1,41 @@
+
+                IBM Continuous Speech Series  1.0                   
+
+ Licensed Materials - Property of IBM                               
+ IBM Continuous Speech Series.                                      
+ (C) Copyright IBM Corporation 1992, 1993. All rights reserved.     
+                                                                    
+ US Government Users Restricted Rights -                            
+ Use, duplication or disclosure restricted by GSA ADP Schedule      
+ Contract with IBM Corporation.                                     
+
+
+IBM Continuous Speech Series (ICSS) is a continuous speech, speaker
+independent speech recognition system that runs on OS/2 and AIX.
+ICSS runs on 486DX machines, and supports multiple sound boards, including
+IBM M-ACPA, ProAudio Spectrum, and SoundBlaster.  ICSS is a development tool
+which you use to speech-enable applications.  It consists of 12 API calls, packaged
+in a DLL.  Find out more about ICSS by reading the article in the OS/2 Developer
+magazine, July/August issue.   A Windows version of ICSS was announced at PC Expo,
+and will be generally available in December, 1993.  
+
+ This document is a complement to the OS/2 Developer Magazine article
+ in the July/August 1993 issue entitled "Speech Enabling Your Application
+ with ICSS" on page 83.
+
+ Included with this package are two files: RECO.C and RL.BNF.
+ RECO.C is the example program described in the article.  RL.BNF is an
+ example of an input file to the context build process.  Please note
+ that these files are intended as examples and are written for clarity
+ and not robustness.
+
+ For more information:
+    Ordering Information:
+       OS/2 or AIX                                1-800-426-2968
+       Windows Developer's Assistance Program     1-800-627-8363
+
+    Technical Assistance:
+       Ken Solkowitz          71742,2163
+       Brandon Booth          71042,3144
+       Ora Williamson         71742,2161
+
